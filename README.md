@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @patil-rahuls
-- 👀 I write applications focused on simplicity with usability.
-- 🌱 I’m currently learning Javascript in depth.
-- 💞️ I’m looking to collaborate on open source projects.
+- 👋 Hi, I’m @patil-rahuls from **🇮🇳**
+- 🎓 I am an Electronics Engineer 🎓 and I code(_full-stack web_) for a living.
+- 🌱 I’m currently learning Javascript in depth. As a Full-Stack developer, I know **Core PHP**, **Java** and **Spring-Boot** framework, **Python** and **Django** framework, **C++**, **MySQL**, **Redis**, **Javascript/JQuery** and **.Net(WinForms)**.
+- ❤️ On the other side, I love electronics and **🤖 Robotics is my 2nd love**!
 - 📫 You can reach me out on my personal website https://rahulspatil.in/contact
 
 <!---
